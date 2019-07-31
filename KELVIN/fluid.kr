@@ -1,0 +1,10 @@
+MassesVolumiques	1.d3  1.d0
+Viscosites		1.d3  1.d-5
+1SigmaTheta		72d-3 45.d0
+Pressions		1.2d6     0.2d6
+AccelerationP		0.5d-6    0.d0  0.d0
+qin         1e-09
+hr     0.1
+1.Temperature.2.Massmol.3.CstGP.4.Beta     293  18.01d-3 8.31 1d-5
+delta     1d-5
+

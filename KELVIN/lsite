@@ -1,0 +1,2419 @@
+ debug                                                       
+ ok
+ nb_procs=            1
+ ok
+ ni,nj,nk
+          21          20           1
+ ok
+ ok
+ ok
+ ok
+ ok
+ ok
+fichier       kr-0001:000000.lgf écrasé
+     > ok
+ ok
+           1 nombre d'amas
+  6.426790641589807E-011 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           2          19           1 F x
+  -475661.196594491      dtime
+           1 nombre d'amas
+  2.570716257838251E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           2           6           1 F x
+  -6.14152741849367      dtime
+           1 nombre d'amas
+  2.578364900236039E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           2           1           1 F x
+  -5193322.49883523      dtime
+           1 nombre d'amas
+  2.586091618390914E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           2          20           1 F y
+   4744879.96692664      dtime
+           1 nombre d'amas
+  2.584702203730384E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           2          12           1 F x
+  -2026189.48097226      dtime
+           1 nombre d'amas
+  2.541775002675635E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           2          11           1 T y
+   1811133.97251997      dtime
+           1 nombre d'amas
+  2.550068836424730E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           2           7           1 F y
+   43111138.6197536      dtime
+           1 nombre d'amas
+  2.536478091098746E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           2           5           1 T y
+  -846583381.540767      dtime
+           1 nombre d'amas
+  2.531085114813614E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           2          10           1 F x
+  -12579479.3693896      dtime
+           1 nombre d'amas
+  2.487190219458458E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           2           2           1 F y
+  -17865745.1521741      dtime
+           1 nombre d'amas
+  2.481055059848254E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           3           2           1 F x
+   17609818.6140400      dtime
+           1 nombre d'amas
+  2.513719286088037E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           2          17           1 F x
+  -48392.5075643742      dtime
+           1 nombre d'amas
+  2.514641729830893E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           3          10           1 F x
+  -3824220.43824159      dtime
+           1 nombre d'amas
+  2.508805149719281E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           3          11           1 F y
+   10645940.3308768      dtime
+           1 nombre d'amas
+  2.504589429742884E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           2          13           1 F x
+  -3126992.30032915      dtime
+           1 nombre d'amas
+  2.489624476910956E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           2          14           1 F y
+   594747.858687935      dtime
+           1 nombre d'amas
+  2.498925691924866E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           2          15           1 F y
+   220326324.197786      dtime
+           1 nombre d'amas
+  2.480275785902238E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           3          15           1 F x
+   72094.8437206158      dtime
+           1 nombre d'amas
+  2.469328489130871E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           4          11           1 F x
+   117662845.519700      dtime
+           1 nombre d'amas
+  2.440369615923308E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           5          11           1 F x
+   9784.46000113643      dtime
+           1 nombre d'amas
+  2.438910470895405E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           6          11           1 F x
+   8851775.19514018      dtime
+           1 nombre d'amas
+  2.438402700294693E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           6          10           1 T y
+   10171.0129873998      dtime
+           1 nombre d'amas
+  2.438300701087100E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           7          11           1 F x
+   14793679.3240719      dtime
+           1 nombre d'amas
+  2.438268432246879E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           7          12           1 F y
+   11863.8733531660      dtime
+           1 nombre d'amas
+  2.438242468812219E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           8          11           1 F x
+   43536.2571318358      dtime
+           1 nombre d'amas
+  2.438235792500449E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           8          12           1 F y
+   4363927.53060557      dtime
+           1 nombre d'amas
+  2.438231341625936E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           8          13           1 F y
+   10110183.1561816      dtime
+           1 nombre d'amas
+  2.438228745282470E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           8          10           1 T y
+   2426974.88595142      dtime
+           1 nombre d'amas
+  2.438228003470051E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           9          12           1 F x
+   20809538.6849500      dtime
+           1 nombre d'amas
+  2.438223923501747E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           9          11           1 T y
+   199.768038797974      dtime
+           1 nombre d'amas
+  2.438223552595538E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+          10          12           1 F x
+   5141710.97148419      dtime
+           1 nombre d'amas
+  2.438223181689329E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+          11          12           1 F x
+   9322204.99191463      dtime
+           1 nombre d'amas
+  2.438222810783119E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           5          10           1 T y
+   110029.927125417      dtime
+           1 nombre d'amas
+  2.438222810783119E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           5           9           1 T y
+   8532735.76972095      dtime
+           1 nombre d'amas
+  2.438083350048373E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           4           9           1 T x
+   1957342.55638055      dtime
+           2 nombre d'amas
+  2.438047372146058E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           4          10           1 T y
+   964234.414414357      dtime
+           1 nombre d'amas
+  2.438022521430026E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+          12          12           1 F x
+   3741590.27139902      dtime
+           1 nombre d'amas
+  2.436294840306495E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           7          13           1 T x
+   8901.41426176586      dtime
+           1 nombre d'amas
+  2.436294469400285E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+          12          11           1 T y
+   35282251.9622801      dtime
+           1 nombre d'amas
+  2.436288163994725E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+          11          11           1 T x
+   4351725.90811577      dtime
+           1 nombre d'amas
+  2.436288163994725E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+          11          10           1 T y
+   5593679.97803992      dtime
+           1 nombre d'amas
+  2.436288163994725E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+          12          10           1 F x
+   629.545627650583      dtime
+           1 nombre d'amas
+  2.436288163994725E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+          12           9           1 T y
+   338316.790903098      dtime
+           1 nombre d'amas
+  2.436288163994725E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+          10          10           1 T x
+   9682721.14033968      dtime
+           2 nombre d'amas
+  2.436288163994725E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          11           9           1 T x
+   205135.841281738      dtime
+           2 nombre d'amas
+  2.436288163994725E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          11           8           1 T y
+   3335121.75850855      dtime
+           2 nombre d'amas
+  2.436288163994725E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          11           7           1 T y
+   20031177.8435477      dtime
+           2 nombre d'amas
+  2.436288163994725E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           6           9           1 T y
+   773260.966900910      dtime
+           2 nombre d'amas
+  2.436288163994725E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           7           9           1 F x
+   3749378.58096365      dtime
+           3 nombre d'amas
+  2.436175779413266E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           7           8           1 T y
+   16468.9880669080      dtime
+           3 nombre d'amas
+  2.436135350636439E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           7          10           1 F y
+   1533984.26336152      dtime
+           2 nombre d'amas
+  2.436129045230879E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           6           8           1 T x
+   3013331.89387593      dtime
+           2 nombre d'amas
+  2.436082681954700E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           8           8           1 F x
+   14.3164315288320      dtime
+           2 nombre d'amas
+  2.436076376549139E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           9           8           1 F x
+   639.699623233131      dtime
+           2 nombre d'amas
+  2.436071925674626E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           6           7           1 T y
+   27746136.2249002      dtime
+           2 nombre d'amas
+  2.436070442049789E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           6           6           1 T y
+   2096.12643162363      dtime
+           2 nombre d'amas
+  2.436068216612532E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          10          11           1 F y
+   22928294.4984259      dtime
+           1 nombre d'amas
+  2.436065991175276E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+          10           8           1 F x
+   2221834.68804006      dtime
+           2 nombre d'amas
+  2.436065249362857E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          10           9           1 F y
+   19669713.4940027      dtime
+           2 nombre d'amas
+  2.436064878456647E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           9          10           1 T x
+   3124615.18404092      dtime
+           2 nombre d'amas
+  2.436064136644229E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           9           9           1 T y
+   1959145.48813707      dtime
+           2 nombre d'amas
+  2.436057460332459E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           8           9           1 T x
+   272950.615409884      dtime
+           1 nombre d'amas
+  2.436052638551736E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           7           7           1 T y
+   4807276.77491654      dtime
+           1 nombre d'amas
+  2.436040398646825E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           8           7           1 F x
+   25820139.5360608      dtime
+           1 nombre d'amas
+  2.436034093241265E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           8           6           1 T y
+   2615386.20324866      dtime
+           1 nombre d'amas
+  2.436031867804008E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           4           8           1 T y
+   44523815.2631695      dtime
+           1 nombre d'amas
+  2.436030384179170E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           3           8           1 T x
+   5816.05941141822      dtime
+           2 nombre d'amas
+  2.436008500712814E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           4           7           1 T y
+   4239824.42009104      dtime
+           2 nombre d'amas
+  2.435999969869997E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           3           9           1 F y
+   1209267.85831774      dtime
+           2 nombre d'amas
+  2.435994406276855E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           2           9           1 F x
+  -4401370.61900721      dtime
+           2 nombre d'amas
+  2.431937805064305E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           2           8           1 T y
+   3706229.07150709      dtime
+           1 nombre d'amas
+  2.460231272532148E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           5           7           1 F x
+   3915947.57730599      dtime
+           2 nombre d'amas
+  2.377559245699571E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           3           7           1 T x
+   3399370.87037356      dtime
+           2 nombre d'amas
+  2.377526235046931E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           3           6           1 T y
+   3670473.04198483      dtime
+           2 nombre d'amas
+  2.371443002306048E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           3           5           1 T y
+   32345417.8985783      dtime
+           2 nombre d'amas
+  2.366766245911328E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           4           5           1 F x
+   12259703.9272286      dtime
+           2 nombre d'amas
+  2.365472525052831E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           4           6           1 F y
+   10350541.8848314      dtime
+           2 nombre d'amas
+  2.365018906758696E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           5           5           1 F x
+   42621662.9267178      dtime
+           3 nombre d'amas
+  2.359055105817249E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           5           6           1 T y
+   4588219.95975794      dtime
+           2 nombre d'amas
+  2.358387103734064E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           5           4           1 T y
+   866670.109550496      dtime
+           2 nombre d'amas
+  2.354252241311322E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           5           3           1 T y
+   17062251.9071683      dtime
+           2 nombre d'amas
+  2.353740019836098E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           6           4           1 F x
+   9841342.51533613      dtime
+           2 nombre d'amas
+  2.353610944475216E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           5           8           1 T x
+   716630.146559303      dtime
+           1 nombre d'amas
+  2.353400640654468E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           5           2           1 T y
+   16083119.9761159      dtime
+           1 nombre d'amas
+  2.352941458767192E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           6           5           1 F y
+   3325215.85281212      dtime
+           1 nombre d'amas
+  2.386453205695526E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           4           4           1 T x
+   25663404.9702726      dtime
+           1 nombre d'amas
+  2.385739582148580E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           4           3           1 T y
+   208699.904867048      dtime
+           2 nombre d'amas
+  2.383073879221397E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           3           3           1 T x
+   3368984.93419014      dtime
+           2 nombre d'amas
+  2.381216010018355E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           3           4           1 F y
+   1247912.05550866      dtime
+           2 nombre d'amas
+  2.377550343950545E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           9           6           1 F x
+   23863313.6035080      dtime
+           2 nombre d'amas
+  2.376675376202496E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           9           7           1 F y
+   30348.9005285616      dtime
+           2 nombre d'amas
+  2.376669070796935E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          10           7           1 F x
+   17688.4583446336      dtime
+           2 nombre d'amas
+  2.376644220080904E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          10           6           1 F x
+   836690.028074973      dtime
+           2 nombre d'amas
+  2.376573747901112E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           2           4           1 T x
+   8969504.84642144      dtime
+           2 nombre d'amas
+  2.376495857597131E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           6          13           1 T x
+   16400285.3499369      dtime
+           2 nombre d'amas
+  2.393436256900490E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           6          12           1 T y
+   1004339.81822344      dtime
+           2 nombre d'amas
+  2.393408068028574E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          11           6           1 T y
+   79770.9464628440      dtime
+           2 nombre d'amas
+  2.392155888665533E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           7           6           1 T y
+   380989.801809743      dtime
+           2 nombre d'amas
+  2.392136230636433E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           3           1           1 F x
+  -9924148.25475061      dtime
+           2 nombre d'amas
+  2.391068020753271E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           4           2           1 T x
+   1102.60405604952      dtime
+           2 nombre d'amas
+  2.361256063264015E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           2           3           1 T y
+   12699153.4289067      dtime
+           1 nombre d'amas
+  2.359618883255585E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           4           1           1 T y
+   30688360.8711795      dtime
+           1 nombre d'amas
+  2.241553131388019E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+          10           5           1 T y
+   47529860.0002024      dtime
+           1 nombre d'amas
+  2.161571101839343E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+          11           5           1 F x
+   5041148.00544135      dtime
+           1 nombre d'amas
+  2.161469658991063E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+          12           5           1 F x
+   776231.580807394      dtime
+           1 nombre d'amas
+  2.161437761057053E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+          11           4           1 T y
+   894232.869218438      dtime
+           1 nombre d'amas
+  2.161424779339722E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+          10           4           1 T x
+   7023.83394923188      dtime
+           1 nombre d'amas
+  2.161418473934162E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           9           4           1 T x
+   18176809.4063698      dtime
+           1 nombre d'amas
+  2.161408830372717E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           9           3           1 T y
+   3211418.51567610      dtime
+           1 nombre d'amas
+  2.161407346747879E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           8           4           1 T x
+   116.751663744963      dtime
+           1 nombre d'amas
+  2.161406975841669E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+           8           5           1 F y
+   12595272.9882617      dtime
+           2 nombre d'amas
+  2.161406604935460E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          11           3           1 T y
+   47761.6965199986      dtime
+           2 nombre d'amas
+  2.161368401595889E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           9           5           1 F x
+   11990633.9325231      dtime
+           1 nombre d'amas
+  2.161366176158633E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+          10           3           1 T x
+   3765815.44360752      dtime
+           1 nombre d'amas
+  2.161248227984033E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+          11           2           1 T y
+   9882972.17746222      dtime
+           1 nombre d'amas
+  2.161227828142514E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+          11           1           1 T y
+   4477313.92333164      dtime
+           2 nombre d'amas
+  2.196782526472396E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          10           1           1 T x
+   6581750.30437859      dtime
+           2 nombre d'amas
+  2.196723923291306E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          10           2           1 T x
+   8197961.72259142      dtime
+           2 nombre d'amas
+  2.196621553177503E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          12           4           1 T y
+   16764688.1897656      dtime
+           2 nombre d'amas
+  2.231211895362863E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           8           3           1 T x
+   14199272.1845446      dtime
+           2 nombre d'amas
+  2.230563922214986E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           7           3           1 T x
+   28066427.9926283      dtime
+           3 nombre d'amas
+  2.230206739535304E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           6           3           1 T x
+   11017.7098623365      dtime
+           3 nombre d'amas
+  2.230162230790172E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          13          10           1 F x
+   34779808.8065281      dtime
+           3 nombre d'amas
+  2.227345939941960E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          13           9           1 T y
+   935298.171951031      dtime
+           3 nombre d'amas
+  2.227270645981446E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          13           8           1 T y
+   6405590.19499408      dtime
+           3 nombre d'amas
+  2.227241344390900E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           8           2           1 T y
+   8555202.27171429      dtime
+           3 nombre d'amas
+  2.227229846298408E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           9           2           1 F x
+   181420.982617384      dtime
+           3 nombre d'amas
+  2.262250068780499E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          14           8           1 F x
+   1237546.70536475      dtime
+           3 nombre d'amas
+  2.296435752291370E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          15           8           1 F x
+   2455149.02592064      dtime
+           3 nombre d'amas
+  2.296434639572741E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           9           1           1 T y
+   748255.760471969      dtime
+           3 nombre d'amas
+  2.296433897760323E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          16           8           1 F x
+   4836329.82002339      dtime
+           3 nombre d'amas
+  2.294016331087249E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          16           9           1 F y
+   775424.247379691      dtime
+           3 nombre d'amas
+  2.294016331087249E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          17           9           1 F x
+   8336024.31033830      dtime
+           3 nombre d'amas
+  2.294016331087249E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           7           2           1 T x
+   9785592.50392068      dtime
+           3 nombre d'amas
+  2.294016331087249E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           6           2           1 T y
+   5927.57804514735      dtime
+           3 nombre d'amas
+  2.320796130314404E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          16          10           1 F y
+   1111821.71145643      dtime
+           3 nombre d'amas
+  2.343650258220936E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          17           8           1 T y
+   74563.6629432394      dtime
+           3 nombre d'amas
+  2.343650258220936E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          16          11           1 F y
+   270779.189598295      dtime
+           3 nombre d'amas
+  2.343650258220936E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          15          11           1 T x
+   880212.287406090      dtime
+           3 nombre d'amas
+  2.343650258220936E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          14           7           1 T y
+   645888.060790140      dtime
+           3 nombre d'amas
+  2.343650258220936E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           6           1           1 T y
+   1105675.01201115      dtime
+           4 nombre d'amas
+  2.343650258220936E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+           7           1           1 F x
+   1145260.97381863      dtime
+           4 nombre d'amas
+  2.342380275359843E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+           8           1           1 F x
+   7929572.00148981      dtime
+           3 nombre d'amas
+  2.339172678460681E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          14           6           1 T y
+   4903070.69987550      dtime
+           3 nombre d'amas
+  2.326399410420283E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          15           7           1 F x
+   47356.3814726573      dtime
+           3 nombre d'amas
+  2.326399410420283E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          16           7           1 F x
+   460550.757626598      dtime
+           3 nombre d'amas
+  2.326399410420283E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          13           6           1 T x
+   6855.65249730298      dtime
+           4 nombre d'amas
+  2.326399039514073E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+          14           5           1 T y
+   18128.5428870452      dtime
+           4 nombre d'amas
+  2.326399039514073E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+          14           4           1 T y
+   58863.4912660954      dtime
+           4 nombre d'amas
+  2.326399039514073E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+          13           4           1 T x
+   392922.277001339      dtime
+           5 nombre d'amas
+  2.326399039514073E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+          12           6           1 T x
+   257980.889248613      dtime
+           5 nombre d'amas
+  2.326376043329089E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+          14           3           1 T y
+   264941.513754662      dtime
+           5 nombre d'amas
+  2.326277011371171E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+           7           5           1 F x
+   2806172.62022739      dtime
+           5 nombre d'amas
+  2.326273302309076E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+           7           4           1 T y
+   3869.39070534401      dtime
+           4 nombre d'amas
+  2.303571987760829E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+          13           5           1 F x
+   5257117.45172878      dtime
+           3 nombre d'amas
+  2.277534000952538E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          14           2           1 T y
+   4930829.08122483      dtime
+           3 nombre d'amas
+  2.270014990274945E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          15           6           1 F x
+   40190.0563630037      dtime
+           3 nombre d'amas
+  2.305461383991673E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          15           3           1 F x
+   2238512.28145885      dtime
+           3 nombre d'amas
+  2.305419471590007E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          12           8           1 T x
+   25068970.1705316      dtime
+           3 nombre d'amas
+  2.305284090823564E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          16          12           1 F y
+   2408658.48045879      dtime
+           3 nombre d'amas
+  2.304581223556692E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          16          13           1 F y
+   38310.3681387363      dtime
+           3 nombre d'amas
+  2.304581223556692E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          17          13           1 F x
+   241649.754901768      dtime
+           3 nombre d'amas
+  2.304581223556692E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          15          12           1 T x
+   69880.5163650686      dtime
+           3 nombre d'amas
+  2.304581223556692E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          17          12           1 F x
+   3033755.33440067      dtime
+           3 nombre d'amas
+  2.304581223556692E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          12           7           1 T y
+   9045457.62518201      dtime
+           3 nombre d'amas
+  2.304581223556692E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          18          13           1 F x
+   13426450.5308453      dtime
+           3 nombre d'amas
+  2.303582002228484E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          19          13           1 F x
+   2043236.08260283      dtime
+           3 nombre d'amas
+  2.303582002228484E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          13           7           1 T x
+   4389002.60490920      dtime
+           2 nombre d'amas
+  2.303582002228484E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          18          14           1 F y
+   14064216.9567332      dtime
+           2 nombre d'amas
+  2.303116885841857E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          15          13           1 T x
+   14581767.1552785      dtime
+           2 nombre d'amas
+  2.303116885841857E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          15          14           1 F y
+   15500543.9306873      dtime
+           2 nombre d'amas
+  2.303116885841857E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          14          13           1 T x
+   11315544.3219503      dtime
+           2 nombre d'amas
+  2.303116885841857E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          13          13           1 T x
+   20725681.1229080      dtime
+           3 nombre d'amas
+  2.303116885841857E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          18          12           1 T y
+   2343662.06022792      dtime
+           3 nombre d'amas
+  2.303116885841857E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          19          12           1 F x
+   234964.303497377      dtime
+           3 nombre d'amas
+  2.303116885841857E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          16          14           1 F x
+   410525.354666158      dtime
+           3 nombre d'amas
+  2.303116885841857E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          16          15           1 F y
+   372033.000007781      dtime
+           3 nombre d'amas
+  2.303116885841857E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           5           1           1 T x
+   723519.540091806      dtime
+           2 nombre d'amas
+  2.303116885841857E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          16          16           1 F y
+   20047.5607665555      dtime
+           2 nombre d'amas
+  2.222656201829910E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          15          16           1 T x
+   1087685.51946464      dtime
+           2 nombre d'amas
+  2.222656201829910E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          15          15           1 T x
+   1750726.18263656      dtime
+           2 nombre d'amas
+  2.222656201829910E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          17          15           1 F x
+   13312645.7064284      dtime
+           3 nombre d'amas
+  2.222656201829910E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          18          15           1 F x
+   63471.6812349066      dtime
+           3 nombre d'amas
+  2.222656201829910E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          19          15           1 F x
+   3737.25450098804      dtime
+           3 nombre d'amas
+  2.222656201829910E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          17          14           1 F y
+   649184.756249693      dtime
+           2 nombre d'amas
+  2.222656201829910E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          19          14           1 T y
+   1897758.49489768      dtime
+           2 nombre d'amas
+  2.222656201829910E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          15           9           1 T x
+   6256683.80414509      dtime
+           2 nombre d'amas
+  2.222656201829910E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          14           9           1 T x
+   2213401.07552762      dtime
+           2 nombre d'amas
+  2.222653234580235E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          14          10           1 F y
+   1760140.80990475      dtime
+           3 nombre d'amas
+  2.222524901031771E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          15          10           1 F x
+   176092.330063152      dtime
+           2 nombre d'amas
+  2.222473345068660E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          14          11           1 F y
+   815943.834309147      dtime
+           2 nombre d'amas
+  2.222424385449015E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          12          13           1 T x
+   184769.280061593      dtime
+           2 nombre d'amas
+  2.222294197369505E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          13          11           1 T x
+   2723262.11266300      dtime
+           2 nombre d'amas
+  2.222267492122426E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          13          12           1 F y
+   27526.2306790980      dtime
+           2 nombre d'amas
+  2.222128031387679E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          11          13           1 T x
+   1968823.03149193      dtime
+           2 nombre d'amas
+  2.221280881605338E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          17          16           1 F x
+   19035136.6267543      dtime
+           2 nombre d'amas
+  2.221029036289134E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          17          17           1 F y
+   19407238.3615744      dtime
+           2 nombre d'amas
+  2.221028665382925E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          18          17           1 F x
+   16099944.3236347      dtime
+           2 nombre d'amas
+  2.221028294476715E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          18          18           1 F y
+   31.4125240341016      dtime
+           2 nombre d'amas
+  2.221028294476715E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          17          18           1 T x
+   23201176.3756598      dtime
+           2 nombre d'amas
+  2.221028294476715E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          16          18           1 T x
+   300093.136820033      dtime
+           2 nombre d'amas
+  2.221028294476715E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          19          18           1 F x
+   109617.641466915      dtime
+           2 nombre d'amas
+  2.221028294476715E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          18          19           1 F y
+   7665640.96527617      dtime
+           2 nombre d'amas
+  2.221028294476715E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          14          12           1 T y
+   12716399.1304795      dtime
+           1 nombre d'amas
+  2.256730613477951E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+          17          19           1 T x
+   4914326.05658842      dtime
+           1 nombre d'amas
+  2.256722824447553E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+          16          19           1 T x
+   6388331.95525999      dtime
+           1 nombre d'amas
+  2.292421248933589E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+          20          15           1 F x
+   2692748.63080951      dtime
+           1 nombre d'amas
+  2.328120044325835E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+          20          14           1 T y
+   31124799.8174399      dtime
+           1 nombre d'amas
+  2.363787498143384E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+          21          14           1 F x
+   7143780.44943779      dtime
+           2 nombre d'amas
+  2.399447904742954E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          18           9           1 F x
+   417149.107393326      dtime
+           2 nombre d'amas
+  2.383962755952299E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          20          13           1 T y
+   16604593.0839582      dtime
+           2 nombre d'amas
+  2.383916949035434E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          17           7           1 F x
+   345127.785508784      dtime
+           2 nombre d'amas
+  2.406958199124625E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          20          18           1 F x
+   25314480.5030638      dtime
+           2 nombre d'amas
+  2.406565965808152E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          20          19           1 F y
+   13913364.5654394      dtime
+           2 nombre d'amas
+  2.442243804999565E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+          21          18           1 F x
+   991.886926953976      dtime
+           3 nombre d'amas
+  2.513580010806395E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          21          17           1 T y
+   11832442.3697148      dtime
+           3 nombre d'amas
+  2.499696991387379E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          17          11           1 T y
+   279168.020701785      dtime
+           3 nombre d'amas
+  2.498539578560848E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          20          17           1 T x
+   2890829.42758216      dtime
+           3 nombre d'amas
+  2.498239515437418E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          21          19           1 F y
+   2791926.36470807      dtime
+           3 nombre d'amas
+  2.531296716806094E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          21          20           1 F y
+   215135.592560735      dtime
+           3 nombre d'amas
+  2.539106888858090E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          19          17           1 T x
+   2301042.22993330      dtime
+           3 nombre d'amas
+  2.517004402384970E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          12          14           1 F y
+   6747463.19811093      dtime
+           3 nombre d'amas
+  2.508237106859536E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          12          15           1 F y
+   352297.406314888      dtime
+           3 nombre d'amas
+  2.508151242072053E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          11          15           1 T x
+   3542722.85835830      dtime
+           3 nombre d'amas
+  2.508145493025807E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          11          16           1 F y
+   774248.448075254      dtime
+           3 nombre d'amas
+  2.508144751213388E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          13          15           1 F x
+   22044166.6451508      dtime
+           3 nombre d'amas
+  2.508144380307179E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          20          16           1 T y
+   1124278.07584495      dtime
+           4 nombre d'amas
+  2.508142896682341E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+          21          16           1 T y
+   726373.455481410      dtime
+           4 nombre d'amas
+  2.518123426418825E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+          18          16           1 F y
+   602291.386906549      dtime
+           4 nombre d'amas
+  2.498605785319232E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+          19          16           1 F x
+   899784.417507650      dtime
+           3 nombre d'amas
+  2.498172937772826E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          13          14           1 T y
+   1606069.53294245      dtime
+           3 nombre d'amas
+  2.487474704521092E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          14          14           1 F x
+   1650668.62277993      dtime
+           3 nombre d'amas
+  2.487464690053437E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          13           3           1 T y
+   5861443.77669285      dtime
+           3 nombre d'amas
+  2.487332647442880E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          14          15           1 F x
+   9101267.67139865      dtime
+           3 nombre d'amas
+  2.486281313792246E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          14          16           1 F y
+   11300.9821981855      dtime
+           3 nombre d'amas
+  2.486048755598933E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          13          16           1 T x
+   851755.430322136      dtime
+           3 nombre d'amas
+  2.485923945659459E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          15           5           1 T y
+   3916026.52030607      dtime
+           3 nombre d'amas
+  2.485891305913029E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          12          16           1 T x
+   4219536.84455941      dtime
+           3 nombre d'amas
+  2.485099977515207E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          13          17           1 F y
+   7199309.90562075      dtime
+           3 nombre d'amas
+  2.485039705256175E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          14          17           1 F x
+   8255660.72904212      dtime
+           3 nombre d'amas
+  2.485013185462201E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          10          15           1 T x
+   833936.585745516      dtime
+           3 nombre d'amas
+  2.484901728146267E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           9          15           1 T x
+   2044126.43859426      dtime
+           3 nombre d'amas
+  2.484896720912439E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          15           4           1 T y
+   3918656.54233203      dtime
+           3 nombre d'amas
+  2.484894680928287E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+          18          10           1 F y
+   11124646.2170267      dtime
+           4 nombre d'amas
+  2.483483382801401E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+           9          14           1 T y
+   579754.002620129      dtime
+           5 nombre d'amas
+  2.483447961258400E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+           9          13           1 T y
+   571286.236324235      dtime
+           5 nombre d'amas
+  2.483447590352191E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+          10          16           1 F y
+   573351.062443527      dtime
+           5 nombre d'amas
+  2.483039037162502E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+          10          13           1 F x
+   10137871.3420799      dtime
+           5 nombre d'amas
+  2.483033659022465E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+          19          10           1 F x
+   2091895.64404299      dtime
+           5 nombre d'amas
+  2.481620320911427E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+          20          10           1 F x
+   2138.28028720634      dtime
+           5 nombre d'amas
+  2.481617353661752E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+          20          11           1 F y
+   398188.305996021      dtime
+           6 nombre d'amas
+  2.517292596509699E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          19          11           1 T x
+   729395.983575546      dtime
+           6 nombre d'amas
+  2.552983046512232E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          18          11           1 T y
+   1869516.51806611      dtime
+           5 nombre d'amas
+  2.552567075198355E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+          10          17           1 F y
+   616723.711668768      dtime
+           5 nombre d'amas
+  2.551782608565408E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+          10          18           1 F y
+   103720.113185424      dtime
+           5 nombre d'amas
+  2.551767772317030E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+          11          18           1 F x
+   2196105.61499299      dtime
+           5 nombre d'amas
+  2.551764805067355E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+          21          10           1 F x
+   2048733.70683356      dtime
+           6 nombre d'amas
+  2.551763877801832E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          14           1           1 T y
+   1891882.71233395      dtime
+           7 nombre d'amas
+  2.547536474279837E-010 debit devap
+           7 nombre de liaisons ouvertes
+ pore envahi
+          12          18           1 F x
+   252423.030734719      dtime
+           8 nombre d'amas
+  2.546520562172205E-010 debit devap
+           8 nombre de liaisons ouvertes
+ pore envahi
+          15           1           1 F x
+   1505229.07892363      dtime
+           8 nombre d'amas
+  2.546520191265995E-010 debit devap
+           8 nombre de liaisons ouvertes
+ pore envahi
+          20          12           1 F y
+   1386522.41158787      dtime
+           8 nombre d'amas
+  2.546456395397973E-010 debit devap
+           8 nombre de liaisons ouvertes
+ pore envahi
+          17          10           1 T x
+   194367.317432517      dtime
+           7 nombre d'amas
+  2.575500762486811E-010 debit devap
+           7 nombre de liaisons ouvertes
+ pore envahi
+          11          14           1 T y
+   9067.18785747450      dtime
+           7 nombre d'amas
+  2.571712141010574E-010 debit devap
+           7 nombre de liaisons ouvertes
+ pore envahi
+          16           1           1 F x
+   1904390.57282523      dtime
+           7 nombre d'amas
+  2.571177479709679E-010 debit devap
+           7 nombre de liaisons ouvertes
+ pore envahi
+          17           1           1 F x
+   480522.071056009      dtime
+           7 nombre d'amas
+  2.571082527720065E-010 debit devap
+           7 nombre de liaisons ouvertes
+ pore envahi
+          21          11           1 F x
+   34067.4064049083      dtime
+           7 nombre d'amas
+  2.571074924142771E-010 debit devap
+           7 nombre de liaisons ouvertes
+ pore envahi
+          18           1           1 F x
+   66504.7294532676      dtime
+           7 nombre d'amas
+  2.524443668227536E-010 debit devap
+           7 nombre de liaisons ouvertes
+ pore envahi
+          11          17           1 F y
+   1362650.96944540      dtime
+           7 nombre d'amas
+  2.524438846446813E-010 debit devap
+           7 nombre de liaisons ouvertes
+ pore envahi
+          12          17           1 F x
+   501382.140768214      dtime
+           6 nombre d'amas
+  2.524387846843016E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          12          19           1 F y
+   2953375.56299897      dtime
+           6 nombre d'amas
+  2.524185888411980E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          18           2           1 F y
+   2464946.78156247      dtime
+           6 nombre d'amas
+  2.559833127841116E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          21          12           1 F x
+   3753034.11636653      dtime
+           6 nombre d'amas
+  2.595412491433925E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          11          19           1 T x
+   9851172.33050879      dtime
+           6 nombre d'amas
+  2.550379655828234E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          21          13           1 F y
+   8125867.58002471      dtime
+           5 nombre d'amas
+  2.585876492789444E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+          10          14           1 F y
+   3686747.99898630      dtime
+           4 nombre d'amas
+  2.570188829208439E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+          18           3           1 F y
+   4687158.12992167      dtime
+           4 nombre d'amas
+  2.566817477217813E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+          19           3           1 F x
+   12168146.1441262      dtime
+           4 nombre d'amas
+  2.566801528250807E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+          20           3           1 F x
+   305277.704245985      dtime
+           4 nombre d'amas
+  2.566790771970733E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+          20           2           1 T y
+   6717.80965763035      dtime
+           4 nombre d'amas
+  2.602469723880775E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+          13          19           1 F x
+   7253102.54437105      dtime
+           4 nombre d'amas
+  2.673816129608365E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+          21           2           1 F x
+   19402949.7088140      dtime
+           5 nombre d'amas
+  2.709344493597377E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+          13          18           1 F y
+   5949609.50029398      dtime
+           5 nombre d'amas
+  2.715349094221862E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+          16           2           1 F y
+   4513573.93793936      dtime
+           6 nombre d'amas
+  2.713002741540999E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          16           3           1 F y
+   1770398.43461114      dtime
+           6 nombre d'amas
+  2.748617526676809E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          17           3           1 F x
+   311965.269647613      dtime
+           7 nombre d'amas
+  2.748527767374127E-010 debit devap
+           7 nombre de liaisons ouvertes
+ pore envahi
+          17           2           1 T y
+   718266.650388981      dtime
+           6 nombre d'amas
+  2.748509963876074E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          17           4           1 F y
+   1432617.11543389      dtime
+           6 nombre d'amas
+  2.783466761396352E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          18           4           1 F x
+   3465094.52286355      dtime
+           6 nombre d'amas
+  2.783343620534821E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          10          19           1 F y
+   2501978.18772516      dtime
+           6 nombre d'amas
+  2.783146854790718E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          10          20           1 F y
+   41675.8429425790      dtime
+           7 nombre d'amas
+  2.817536351263671E-010 debit devap
+           7 nombre de liaisons ouvertes
+ pore envahi
+           2          18           1 T y
+  -2501003.43075192      dtime
+           7 nombre d'amas
+  2.816888749022004E-010 debit devap
+           7 nombre de liaisons ouvertes
+ pore envahi
+          15           2           1 T x
+   4778533.67934621      dtime
+           6 nombre d'amas
+  2.807593283054340E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          11          20           1 F x
+   1790469.70926478      dtime
+           6 nombre d'amas
+  2.838888494475112E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          12          20           1 F y
+   1211851.58279155      dtime
+           6 nombre d'amas
+  2.836388772076648E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          12           3           1 T x
+   2701596.19410924      dtime
+           6 nombre d'amas
+  2.834834304152922E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          19           4           1 F x
+   2901016.15016044      dtime
+           6 nombre d'amas
+  2.818846021089173E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          20           4           1 F x
+   3057.27169577979      dtime
+           6 nombre d'amas
+  2.818388693732944E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          20           5           1 F y
+   4304.49592244741      dtime
+           6 nombre d'amas
+  2.853167085366486E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          14          19           1 F x
+   2383980.03909127      dtime
+           6 nombre d'amas
+  2.887491487799684E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          12           2           1 T y
+   5654177.66807153      dtime
+           6 nombre d'amas
+  2.922532851935713E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          21           1           1 T y
+   816740.713700053      dtime
+           6 nombre d'amas
+  2.919145365524977E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          19           2           1 T x
+   44907.4447744887      dtime
+           6 nombre d'amas
+  2.884475463957693E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          13           2           1 T y
+   2982055.56777679      dtime
+           6 nombre d'amas
+  2.876776007409212E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          13           1           1 T y
+   7970073.75560901      dtime
+           6 nombre d'amas
+  2.904310971678768E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          12           1           1 T x
+   96748.2394347243      dtime
+           5 nombre d'amas
+  2.897587554820406E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+          14          18           1 T y
+   3456901.09712667      dtime
+           5 nombre d'amas
+  2.835905110379550E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+          14          20           1 F y
+   566969.776586823      dtime
+           6 nombre d'amas
+  2.834598778709932E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          15          19           1 T x
+   5848845.74007544      dtime
+           7 nombre d'amas
+  2.831328869567586E-010 debit devap
+           7 nombre de liaisons ouvertes
+ pore envahi
+          19          19           1 F x
+   3.49050820764405      dtime
+           7 nombre d'amas
+  2.864023881022752E-010 debit devap
+           7 nombre de liaisons ouvertes
+ pore envahi
+          19          20           1 F y
+   23843.3654163353      dtime
+           8 nombre d'amas
+  2.873280030932216E-010 debit devap
+           8 nombre de liaisons ouvertes
+ pore envahi
+          15          18           1 T x
+   330601.029751571      dtime
+           8 nombre d'amas
+  2.869626233863108E-010 debit devap
+           8 nombre de liaisons ouvertes
+ pore envahi
+          13          20           1 F x
+   7490318.18644367      dtime
+           7 nombre d'amas
+  2.864930004892393E-010 debit devap
+           7 nombre de liaisons ouvertes
+ pore envahi
+          15          17           1 T y
+   2802614.40342320      dtime
+           7 nombre d'amas
+  2.846620219863813E-010 debit devap
+           7 nombre de liaisons ouvertes
+ pore envahi
+          16          17           1 F x
+   64120.0235414565      dtime
+           6 nombre d'amas
+  2.838138707572745E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          19           5           1 T x
+   27076773.6368913      dtime
+           6 nombre d'amas
+  2.785583523133577E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          18           5           1 T x
+   142347.107482490      dtime
+           6 nombre d'amas
+  2.785298110805420E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          18          20           1 T x
+   6055240.61512109      dtime
+           6 nombre d'amas
+  2.784822052685614E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          19           6           1 F y
+   3475803.68143201      dtime
+           6 nombre d'amas
+  2.779028126788087E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          20           1           1 T x
+   1422460.52036763      dtime
+           6 nombre d'amas
+  2.778729547289494E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          18           6           1 T x
+   1048407.01453795      dtime
+           7 nombre d'amas
+  2.786089439203241E-010 debit devap
+           7 nombre de liaisons ouvertes
+ pore envahi
+          17           5           1 T x
+   64561.1757607965      dtime
+           7 nombre d'amas
+  2.785917338722065E-010 debit devap
+           7 nombre de liaisons ouvertes
+ pore envahi
+          17          20           1 T x
+   1716005.97660396      dtime
+           7 nombre d'amas
+  2.783398514653817E-010 debit devap
+           7 nombre de liaisons ouvertes
+ pore envahi
+          18           7           1 F y
+   2592241.68872635      dtime
+           7 nombre d'amas
+  2.755062022065679E-010 debit devap
+           7 nombre de liaisons ouvertes
+ pore envahi
+          17           6           1 T x
+   10263868.7020990      dtime
+           7 nombre d'amas
+  2.754952233827687E-010 debit devap
+           7 nombre de liaisons ouvertes
+ pore envahi
+          16           6           1 T x
+   169395.285233279      dtime
+           7 nombre d'amas
+  2.754728762836505E-010 debit devap
+           7 nombre de liaisons ouvertes
+ pore envahi
+          19           7           1 F x
+   3019772.70183221      dtime
+           7 nombre d'amas
+  2.752038765552604E-010 debit devap
+           7 nombre de liaisons ouvertes
+ pore envahi
+          20           6           1 F x
+   8576093.52167456      dtime
+           7 nombre d'amas
+  2.751621496066994E-010 debit devap
+           7 nombre de liaisons ouvertes
+ pore envahi
+          15          20           1 F y
+   14396687.9441435      dtime
+           7 nombre d'amas
+  2.785170519069375E-010 debit devap
+           7 nombre de liaisons ouvertes
+ pore envahi
+          16          20           1 F x
+   7964399.57271648      dtime
+           6 nombre d'amas
+  2.781485936784884E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          19           1           1 T x
+   16196880.3725268      dtime
+           5 nombre d'amas
+  2.707622005160778E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+          19           8           1 F y
+   6298175.68928032      dtime
+           6 nombre d'amas
+  2.649684229810342E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          19           9           1 F y
+   746997.444347518      dtime
+           6 nombre d'amas
+  2.649617466692644E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          20           8           1 F x
+   60918.6681762003      dtime
+           6 nombre d'amas
+  2.648736935351454E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          20           7           1 T y
+   11642951.4438787      dtime
+           6 nombre d'amas
+  2.684112485982180E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          20           9           1 F x
+   5513329.92757818      dtime
+           6 nombre d'amas
+  2.717403543715902E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          21           6           1 F x
+   288027.322286614      dtime
+           7 nombre d'amas
+  2.736277477089027E-010 debit devap
+           7 nombre de liaisons ouvertes
+ pore envahi
+          21           5           1 F x
+   3568054.98480096      dtime
+           7 nombre d'amas
+  2.733582843477508E-010 debit devap
+           7 nombre de liaisons ouvertes
+ pore envahi
+          21           4           1 T y
+   5288.91350146969      dtime
+           7 nombre d'amas
+  2.700725375102612E-010 debit devap
+           7 nombre de liaisons ouvertes
+ pore envahi
+          18           8           1 T x
+   2943266.10949718      dtime
+           6 nombre d'amas
+  2.690120053856341E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+          21           3           1 T y
+   13038282.2940416      dtime
+           5 nombre d'amas
+  2.662348636878271E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+          16           4           1 T x
+   8062783.74261200      dtime
+           5 nombre d'amas
+  2.642353268580930E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+          16           5           1 F y
+   1507.37702515331      dtime
+           4 nombre d'amas
+  2.618617496614579E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+          21           7           1 F y
+   54925817.5521340      dtime
+           4 nombre d'amas
+  2.497871761930767E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+          21           8           1 F y
+   996693.695017944      dtime
+           4 nombre d'amas
+  2.483104687561572E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+          21           9           1 F x
+   3164355.58555099      dtime
+           3 nombre d'amas
+  2.346718023479143E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           3          18           1 F x
+   17038658.7104110      dtime
+           3 nombre d'amas
+  2.269430812995091E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           4          18           1 F x
+   592658.269057449      dtime
+           3 nombre d'amas
+  2.264460484335606E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           5          18           1 F x
+   92172.3558617534      dtime
+           3 nombre d'amas
+  2.263748715319707E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           4          17           1 T y
+   2439411.78608315      dtime
+           3 nombre d'amas
+  2.263462932085340E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           3          17           1 T x
+   352942.986100035      dtime
+           3 nombre d'amas
+  2.263307151477379E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           4          16           1 T y
+   9311798.24877432      dtime
+           4 nombre d'amas
+  2.253882795601937E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+           5          19           1 F y
+   1319172.69555167      dtime
+           4 nombre d'amas
+  2.252643041596912E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+           5          20           1 F y
+   1197.63840482291      dtime
+           5 nombre d'amas
+  2.286700577012424E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+           4          19           1 F y
+   1341510.60798201      dtime
+           5 nombre d'amas
+  2.286565567152192E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+           6          20           1 F x
+   3062226.17675572      dtime
+           5 nombre d'amas
+  2.316138846495679E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+           4          20           1 F y
+   34317.5261880171      dtime
+           5 nombre d'amas
+  2.314952502984812E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+           8          14           1 T x
+   245978.459078433      dtime
+           5 nombre d'amas
+  2.314160989133885E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+           3          20           1 T x
+   29813408.1555268      dtime
+           5 nombre d'amas
+  2.267366349033395E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+           3          19           1 T y
+   14058222.9063741      dtime
+           4 nombre d'amas
+  2.258381887922339E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+           3          16           1 T x
+   19405190.1238801      dtime
+           4 nombre d'amas
+  2.222960344921643E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+           2          16           1 T x
+   17392711.5225068      dtime
+           3 nombre d'amas
+  2.208361476518425E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           5          16           1 F x
+   24879338.0015292      dtime
+           3 nombre d'amas
+  2.167313657226864E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           5          17           1 T y
+   2525589.21952623      dtime
+           3 nombre d'amas
+  2.161623585067978E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           6          18           1 F x
+   23830.1852290519      dtime
+           3 nombre d'amas
+  2.133097188500611E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           6          17           1 T y
+   389105.189256885      dtime
+           3 nombre d'amas
+  2.126819600905985E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           7          17           1 F x
+   11074742.0171712      dtime
+           3 nombre d'amas
+  2.125038138382086E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           7          18           1 F y
+   4017718.48729402      dtime
+           3 nombre d'amas
+  2.124438753947645E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           8          18           1 F x
+   647451.964579820      dtime
+           3 nombre d'amas
+  2.124098447500492E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           6          16           1 T y
+   2532562.68493929      dtime
+           3 nombre d'amas
+  2.123917074364080E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           7          16           1 F x
+   152576.026057493      dtime
+           3 nombre d'amas
+  2.120771975161207E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           7          15           1 T y
+   29611069.1143785      dtime
+           4 nombre d'amas
+  2.117795452830520E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+           8          15           1 F x
+   61418.0298553464      dtime
+           4 nombre d'amas
+  2.117410081278921E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+          20          20           1 T x
+   16732639.2100369      dtime
+           3 nombre d'amas
+  2.107294170775994E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           7          14           1 T y
+   1788827.57934437      dtime
+           3 nombre d'amas
+  2.061302171712713E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           6          14           1 T x
+   947982.355851472      dtime
+           3 nombre d'amas
+  2.051938644455619E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           6          15           1 F y
+   72408.8827816494      dtime
+           3 nombre d'amas
+  2.049130328090909E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           3          13           1 F x
+  -266595.095152871      dtime
+           3 nombre d'amas
+  2.042943612517594E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           3          12           1 T y
+   12595000.1461179      dtime
+           3 nombre d'amas
+  2.040219306409320E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           7          19           1 F y
+   9575354.10838332      dtime
+           4 nombre d'amas
+  2.029042789600525E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+           7          20           1 F y
+   1235190.88852372      dtime
+           4 nombre d'amas
+  2.063166160868211E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+           8          19           1 F y
+   933575.158252480      dtime
+           4 nombre d'amas
+  2.056645444253303E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+           4          13           1 F x
+   3632421.66517798      dtime
+           4 nombre d'amas
+  2.091131005434499E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+           4          14           1 F y
+   59655.5722898598      dtime
+           5 nombre d'amas
+  2.088705835184131E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+           3          14           1 F y
+   37908.1306183435      dtime
+           4 nombre d'amas
+  2.087315864164287E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+           9          19           1 F x
+   966404.881738866      dtime
+           5 nombre d'amas
+  2.079607320413675E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+           9          18           1 T y
+   1616335.24955985      dtime
+           5 nombre d'amas
+  2.111711663730322E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+           9          17           1 T y
+   12575428.6779252      dtime
+           5 nombre d'amas
+  2.106801978236078E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+           5          13           1 F x
+   4567405.25195033      dtime
+           6 nombre d'amas
+  2.101535295515258E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+           5          12           1 T y
+   9182215.35127043      dtime
+           6 nombre d'amas
+  2.097169358524041E-010 debit devap
+           6 nombre de liaisons ouvertes
+ pore envahi
+           4          12           1 T x
+   3069636.94066133      dtime
+           5 nombre d'amas
+  2.086190534724873E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+           5          14           1 F y
+   14879998.8604048      dtime
+           5 nombre d'amas
+  2.035465957882353E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+           8          17           1 T x
+   292553.453422390      dtime
+           5 nombre d'amas
+  1.993139068527568E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+           8          16           1 T y
+   132.843925232029      dtime
+           5 nombre d'amas
+  1.988671132328758E-010 debit devap
+           5 nombre de liaisons ouvertes
+ pore envahi
+           9          16           1 F x
+   85831.4709325081      dtime
+           4 nombre d'amas
+  1.979418135122073E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+           8          20           1 F y
+   1938327.11005048      dtime
+           4 nombre d'amas
+  1.846552112779567E-010 debit devap
+           4 nombre de liaisons ouvertes
+ pore envahi
+           6          19           1 T x
+   7069177.44228199      dtime
+           3 nombre d'amas
+  1.828678328000174E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           5          15           1 F y
+   124706539.335323      dtime
+           3 nombre d'amas
+  1.641375699471159E-010 debit devap
+           3 nombre de liaisons ouvertes
+ pore envahi
+           9          20           1 F x
+   1457478.57011459      dtime
+           2 nombre d'amas
+  1.604407106670925E-010 debit devap
+           2 nombre de liaisons ouvertes
+ pore envahi
+           4          15           1 T x
+   1324605.73761377      dtime
+           1 nombre d'amas
+  1.473822528422632E-010 debit devap
+           1 nombre de liaisons ouvertes
+ pore envahi
+          21          15           1 F y
+   259387772.522969      dtime
+           0 nombre d'amas
+ Désallocation mémoire
+ Happy End of Arpovs
+ temps d'execution   3.47547000000000     

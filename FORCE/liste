@@ -1,0 +1,325 @@
+ debug                                                       
+ ok
+ nb_procs=            1
+ ok
+ ni,nj,nk
+          11          10           1
+ ok
+ ok
+ ok
+ ok
+ ok
+ ok
+fichier       kr-0001:000000.lgf écrasé
+     > ok
+ ok
+ echpression
+ conv
+ T
+ number of iterations   1.00000000000000     
+ pore envahi
+           2           1           1 F x
+ time
+   57736401.9965106        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   2.00000000000000     
+ pore envahi
+           2           2           1 F y
+ time
+   179044617.385058        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   3.00000000000000     
+ pore envahi
+           3           2           1 F x
+ time
+   3027073621.54180        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   4.00000000000000     
+ pore envahi
+           3           1           1 T y
+ time
+   3732929619.31043        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   5.00000000000000     
+ pore envahi
+           2           3           1 F y
+ time
+   3738425450.26162        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   6.00000000000000     
+ pore envahi
+           2           4           1 F y
+ time
+   3739863599.33784        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   7.00000000000000     
+ pore envahi
+           2           5           1 F x
+ time
+   6769889129.02017        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   8.00000000000000     
+ pore envahi
+           2           6           1 F y
+ time
+   7791300369.00768        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   9.00000000000000     
+ pore envahi
+           3           4           1 F x
+ time
+   8216317799.22792        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   10.0000000000000     
+ pore envahi
+           3           5           1 F y
+ time
+   10865737249.3250        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   11.0000000000000     
+ pore envahi
+           4           4           1 F x
+ time
+   12513465781.5807        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   12.0000000000000     
+ pore envahi
+           5           4           1 F x
+ time
+   16133523564.1958        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   13.0000000000000     
+ pore envahi
+           5           3           1 T y
+ time
+   18141953096.0986        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   14.0000000000000     
+ pore envahi
+           5           2           1 T y
+ time
+   18960824943.5241        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   15.0000000000000     
+ pore envahi
+           6           4           1 F x
+ time
+   19099488808.4187        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   16.0000000000000     
+ pore envahi
+           6           3           1 T y
+ time
+   19103109292.7653        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   17.0000000000000     
+ pore envahi
+           6           5           1 F y
+ time
+   19572420689.9328        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   18.0000000000000     
+ pore envahi
+           7           5           1 F x
+ time
+   19615254379.7543        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   19.0000000000000     
+ pore envahi
+           8           5           1 F x
+ time
+   19668671643.6241        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   20.0000000000000     
+ pore envahi
+           7           4           1 T y
+ time
+   19725582617.5530        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   21.0000000000000     
+ pore envahi
+           8           6           1 F y
+ time
+   19733550741.6768        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   22.0000000000000     
+ pore envahi
+           8           4           1 F x
+ time
+   22521244639.4455        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   23.0000000000000     
+ pore envahi
+           5           5           1 F y
+ time
+   22551948735.7995        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   24.0000000000000     
+ pore envahi
+           4           5           1 F x
+ time
+   23029855784.6359        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   25.0000000000000     
+ pore envahi
+           3           3           1 T y
+ time
+   23029856169.0243        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   26.0000000000000     
+ pore envahi
+           9           5           1 F x
+ time
+   23070264508.9405        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   27.0000000000000     
+ pore envahi
+           9           6           1 F y
+ time
+   24322017728.6462        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   28.0000000000000     
+ pore envahi
+          10           5           1 F x
+ time
+   26003314075.4351        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   29.0000000000000     
+ pore envahi
+          10           4           1 T y
+ time
+   27054483254.5109        1.00000000000000     
+ debit
+  0.000000000000000E+000  1.000000000000000E-009
+ echpression
+ conv
+ T
+ number of iterations   30.0000000000000     
+ pore envahi
+          11           4           1 F x
+ time
+   27144415327.4515        1.00000000000000     
+ timepe percee
+  2.7144415E+10
+            1
+ debit
+  1.397809342933976E-007  1.000000000000000E-009
+ qin=qout
+            1
+           10
+ nombre total d'iterations   30.0000000000000     
+ Désallocation mémoire
+ Happy End of Arpovs
+ temps d'execution  0.148976000000000     

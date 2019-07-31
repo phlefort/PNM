@@ -1,0 +1,4 @@
+typstruct 	1
+Dimensions         101  100  1
+Steps		1000.d-6  1000.d-6  1000.d-6
+Origine		0.d0  0.d0  0.d0 

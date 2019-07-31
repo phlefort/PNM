@@ -1,0 +1,22 @@
+cse	                                       	                kr
+subcase         1
+run 		                                                1
+typrun		                                                3 2 
+piegeage	                                                F  1  F
+gravite		                                                F  
+pimpovisq	                                                F
+debitimpose	                                                F
+resolutionATattaqDEdefADlesdeux                                 AT
+invasionsechageQSquasistatiqueCLclassiqueVIvisqueux             VI
+gradmac                                                         F
+permeaperco                                                     F
+nobord                                                          F
+sechage                                                         T
+deltap	                                                        1d-7
+satmin                                                          0.d0
+satmax                                                          1.d0
+ndeltap         2100
+nstep		                                                10000000
+outvars                                		                F  	T	F
+FrequencesAcq                                                   1 1 1 1 1 1
+debug		                                                F
